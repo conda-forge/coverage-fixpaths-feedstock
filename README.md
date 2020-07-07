@@ -5,7 +5,7 @@ Home: https://github.com/omegacen/coverage-fixpaths
 
 Package license: LGPL-3.0-or-later
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A small CLI tool that automatically fixes paths in Cobertura coverage reports
 

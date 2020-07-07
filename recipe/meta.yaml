@@ -1,5 +1,5 @@
 {% set name = "coverage-fixpaths" %}
-{% set version = "1.0.2" %}
+{% set version = "1.0.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 1a2cc2d0f56ec1f1e728c95f2cff9a7562efe53fef26bb1782a83ae0f2cdd510
+  sha256: f9571e1bde231f59d87c83ac0bea7db705f15c8a89fd4b627ff19f4f746de404
 
 build:
   noarch: python
